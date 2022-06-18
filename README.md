@@ -5,3 +5,6 @@ This is the **first game I make in Unity**, in order to get acquainted with C# a
 
 ![image](https://user-images.githubusercontent.com/78866641/174446740-b16bd964-602b-4afa-bf74-9809cbb5df3b.png)
 
+You can execute opening RollABall.exe at the folder Builds
+
+(For Windows x86_64)
